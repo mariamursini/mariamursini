@@ -18,7 +18,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Maria-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Maria-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Maria-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Maria-gif" height="150" style="border-radius:50px;"<img src="https://i.picasion.com/pic92/fe79fbfe03b85ef27053156fdbf4edad.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>>
 </div>
   
   <div> 
